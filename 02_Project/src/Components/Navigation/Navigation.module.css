@@ -1,0 +1,17 @@
+.container{
+    max-width: 1280px;
+    margin: 0 auto;
+  }
+.navigation{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 9px;
+    height: 72px;
+  }
+.navigation ul{
+    display: flex;
+    list-style: none;
+    gap: 24px;
+    font-weight: 500;
+  }
